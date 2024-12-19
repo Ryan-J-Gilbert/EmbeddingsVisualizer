@@ -1,5 +1,7 @@
 # 3D Embedding Visualizer
 
+![Demo Screenshot](demoscreenshot.png)
+
 This project is a 3D embedding visualizer that leverages Flask for the backend and Plotly.js for interactive visualization. The application allows users to explore high-dimensional data visualized in 3D, with additional features like image previews and categorical clustering.
 
 This release is just a proof of concept to show an interactive 3D scatter plot with points associated to clusters and images generated from 100 MNIST images and manually created clusters.
